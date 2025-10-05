@@ -1,4 +1,4 @@
-# Rental Length Prediction Project
+# DVD Rental Duration Prediction
 ---
 This project aims to predict the **rental length of DVD** based on various features using different regression models.
 
